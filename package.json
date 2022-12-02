@@ -16,5 +16,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": "https://github.com/mir-hussain/moon-tech-server.git"
 }
